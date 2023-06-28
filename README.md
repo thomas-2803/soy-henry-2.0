@@ -1,2 +1,3 @@
-# soy-henry-2.0
-clonando repositorio de github a pc
+#soy henry
+ Clonacion de repositorio en github(forma online) a pc (forma local) realizada con exito |100 puntos|
+
